@@ -1,17 +1,17 @@
 {
  "produto": "mercadoc",
  "versao": "1.1.3",
- "atualizado_em": "2026-09-29T15:14:32.435578Z",
+ "atualizado_em": "2026-09-29T15:26:38.069527Z",
  "arquivos": {
   "MercadoC-setup.exe": {
    "url": "https://github.com/heuryferr/MercadoC-Releases/releases/download/v1.1.3/MercadoC-setup.exe",
-   "sha256": "a9be7bfa3df42f590a3ffd226600b714acff0955514adde49621be3bf0196312",
-   "tamanho": 21888368
+   "sha256": "03267210b70b18c9b71a810f37db40a5dc36155973356c2df16987adc71fc2df",
+   "tamanho": 21890871
   },
   "MercadoC-portable.zip": {
    "url": "https://github.com/heuryferr/MercadoC-Releases/releases/download/v1.1.3/MercadoC-portable.zip",
-   "sha256": "e26ac5fc1907d929819706f796dc8208d0fee21537b7adaf80a9ac737d5c5c7c",
-   "tamanho": 27565006
+   "sha256": "7a9dc4a4af7ffbe1cf772409b10b9f110ab4c13ce9fc1ea1e17db0962a1df7fc",
+   "tamanho": 27561616
   }
  },
  "windows": {
