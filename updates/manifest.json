@@ -1,23 +1,23 @@
 {
  "produto": "mercadoc",
- "versao": "1.1.1",
- "atualizado_em": "2026-09-29T13:04:20.362086Z",
+ "versao": "1.1.2",
+ "atualizado_em": "2026-09-29T13:25:02.211914Z",
  "arquivos": {
   "MercadoC-setup.exe": {
-   "url": "https://github.com/heuryferr/MercadoC-Releases/releases/download/v1.1.1/MercadoC-setup.exe",
-   "sha256": "7fb261bc9eddd9f8c28f089e70a51d943d8576565ebffcd51bc05ed683d5f81a",
-   "tamanho": 21865043
+   "url": "https://github.com/heuryferr/MercadoC-Releases/releases/download/v1.1.2/MercadoC-setup.exe",
+   "sha256": "c962a2fe649bcd80e87b32047f050396cc952d37b014be152eace80d57ea8514",
+   "tamanho": 21867417
   },
   "MercadoC-portable.zip": {
-   "url": "https://github.com/heuryferr/MercadoC-Releases/releases/download/v1.1.1/MercadoC-portable.zip",
-   "sha256": "58f109457634efec83107cb6a17e76e3a37c6fbf19fad90487109e0a1b8436e9",
-   "tamanho": 27542640
+   "url": "https://github.com/heuryferr/MercadoC-Releases/releases/download/v1.1.2/MercadoC-portable.zip",
+   "sha256": "2f647ee648cfc4a0e04d85abf753509f454c504282bfc4a5cbf0b8fed4f38fca",
+   "tamanho": 27542748
   }
  },
  "windows": {
   "instalador": "MercadoC-setup.exe",
   "zip": "MercadoC-portable.zip",
-  "url_instalador": "https://github.com/heuryferr/MercadoC-Releases/releases/download/v1.1.1/MercadoC-setup.exe",
-  "url_zip": "https://github.com/heuryferr/MercadoC-Releases/releases/download/v1.1.1/MercadoC-portable.zip"
+  "url_instalador": "https://github.com/heuryferr/MercadoC-Releases/releases/download/v1.1.2/MercadoC-setup.exe",
+  "url_zip": "https://github.com/heuryferr/MercadoC-Releases/releases/download/v1.1.2/MercadoC-portable.zip"
  }
 }
