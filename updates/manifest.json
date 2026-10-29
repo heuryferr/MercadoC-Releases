@@ -1,27 +1,27 @@
 {
  "produto": "mercadoc",
  "versao": "1.1.9",
- "atualizado_em": "2026-10-29T15:29:38.733276Z",
+ "atualizado_em": "2026-10-29T15:35:11.728950Z",
  "arquivos": {
   "MercadoC-setup.exe": {
    "url": "https://github.com/heuryferr/MercadoC-Releases/releases/download/v1.1.9/MercadoC-setup.exe",
-   "sha256": "8a394a788272a6eb4e6f19f0daffbe35af8925e818da2eda24611e6798ec4847",
-   "tamanho": 21913592
+   "sha256": "6cc440fe8d6000f46325098d539cc07bb0c6beb7920c170956cd887ea28eb736",
+   "tamanho": 21915677
   },
   "MercadoC-portable.zip": {
    "url": "https://github.com/heuryferr/MercadoC-Releases/releases/download/v1.1.9/MercadoC-portable.zip",
-   "sha256": "6011c646ca1ea4a76bda47462bec8c53d8c32a6d46e4d648da3031156a6d13d9",
-   "tamanho": 27585779
+   "sha256": "59d03f9126cf46d3cca04bf355600d285b879a5c099df5f5c960e46135053940",
+   "tamanho": 27587498
   },
   "MercadoC-Fiscal-setup.exe": {
    "url": "https://github.com/heuryferr/MercadoC-Releases/releases/download/v1.1.9/MercadoC-Fiscal-setup.exe",
-   "sha256": "93b4daf3efd7b7de72366c5f4b3600d6148bb8bd551829f7ef86c2b2351a773b",
-   "tamanho": 24209455
+   "sha256": "0e1e70f26415d4bec9da062ba0adc908da72c9b143fab8fe593c648dda5e3163",
+   "tamanho": 24209681
   },
   "MercadoC-Fiscal-portable.zip": {
    "url": "https://github.com/heuryferr/MercadoC-Releases/releases/download/v1.1.9/MercadoC-Fiscal-portable.zip",
-   "sha256": "c345e19c470eab7c38f570cee81e8cf6524a090f64f57c452ba354b7e131bda2",
-   "tamanho": 31527942
+   "sha256": "1b7dbd727c451f84109dcc733abb702c6265ca581dc7f9e4024b47dd102abe47",
+   "tamanho": 31528410
   }
  },
  "windows": {
